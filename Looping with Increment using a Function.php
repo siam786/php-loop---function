@@ -42,13 +42,11 @@ function printEvenNumbersDoWhile($start, $end, $step) {
 echo "Using for loop: ";
 
 printEvenNumbersFor(2, 20, 2);
-echo "</br>";
+
+
 echo "Using while loop: ";
 printEvenNumbersWhile(2, 20, 2);
-echo "</br>";
+
+
 echo "Using do-while loop: ";
 printEvenNumbersDoWhile(2, 20, 2);
-
-
-
-
